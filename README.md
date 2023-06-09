@@ -1,20 +1,29 @@
-# termoo
 
-A new Flutter project.
+![Termoooo](https://1lusca.github.io/assets/img/portfolio/termoo.png)
 
-## Getting Started
+##
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/github/license/1lusca/termoooo.svg">
+  <img src="https://img.shields.io/github/followers/1lusca.svg?style=social&label=Follow&maxAge=2592000">
+</p>
 
-### Getting started continued:
+## 🧩 Termoooo 🧩
 
-This project is a starting point for a Flutter application.
+O aplicativo Termoooo foi feito com fins didáticos com inspiração no jogo [Termo](https://term.ooo/).
 
-A few resources to get you started if this is your first Flutter project:
+##
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Tecnologias e Ferramentas 💻
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github" />
+</p>
+
+##
+
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+</p>
+
